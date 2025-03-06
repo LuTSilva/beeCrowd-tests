@@ -1,26 +1,21 @@
+import java.io.IOException;
 import java.util.Scanner;
-
-// Leia dois valores inteiros. A seguir, calcule o produto entre estes dois valores e atribua esta operação à variável PROD. 
-// A seguir mostre a variável PROD com mensagem correspondente.
-
-// O arquivo de entrada contém 2 valores inteiros.
-
-// Imprima a mensagem "PROD" e a variável PROD, com um espaço em branco antes e depois da igualdade.
 
 public class Main {
 
-	public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 		
-		Scanner sc = new Scanner(System.in);
+        // Leitura dos valores inteiros
+        Scanner sc = new Scanner(System.in);
 		
+        // Cálculo da multiplicação dos valores inteiros
 		int A = sc.nextInt();
 		int B = sc.nextInt();
-		int PROD  = A * B;
+        int PROD = A * B;
 		
+        // Impressão do cálculo realizado
 		System.out.println("PROD = " + PROD);
 		
 		sc.close();
-
 	}
-
 }

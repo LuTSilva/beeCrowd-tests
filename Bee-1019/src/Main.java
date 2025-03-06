@@ -6,7 +6,6 @@ public class Main {
 		Scanner sc = new Scanner(System.in);
 		
 		// Leitura do tempo, em segundos
-        System.out.print("Digite o tempo em segundos: ");
         int N = sc.nextInt();
 		
         // Cálculo do tempo em horas, minutos e segundos
