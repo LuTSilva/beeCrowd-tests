@@ -1,6 +1,9 @@
 {
 	"folders": [
 		{
+			"path": "Bee-1000"
+		},
+		{
 			"path": "Bee-1001"
 		},
 		{
@@ -13,11 +16,11 @@
 			"path": "Bee-1004"
 		},
 		{
-			"path": "Bee-1000"
-		},
+			"path": "Bee-1005"
+		}
 		{
 			"path": "Bee-1019"
-		}
+		},
 	],
 	"settings": {}
 }
