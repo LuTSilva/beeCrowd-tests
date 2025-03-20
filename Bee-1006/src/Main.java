@@ -16,7 +16,7 @@ public class Main {
         double C = sc.nextDouble();
         double MEDIA = (A * 2.0 + B * 3.0 + C * 5.0) / 10;
         
-        // Impressão da média calculada
+        // Impressão do cálculo realizado
         System.out.printf("MEDIA = %.1f%n", MEDIA);
         
         sc.close();
