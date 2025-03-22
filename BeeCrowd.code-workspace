@@ -1,32 +1,45 @@
 {
 	"folders": [
 		{
+			"name": "Bee-1000",
 			"path": "Bee-1000"
 		},
 		{
+			"name": "Bee-1001",
 			"path": "Bee-1001"
 		},
 		{
+			"name": "Bee-1002",
 			"path": "Bee-1002"
 		},
 		{
+			"name": "Bee-1003",
 			"path": "Bee-1003"
 		},
 		{
+			"name": "Bee-1004",
 			"path": "Bee-1004"
 		},
 		{
+			"name": "Bee-1005",
 			"path": "Bee-1005"
 		},
 		{
+			"name": "Bee-1006",
 			"path": "Bee-1006"
 		},
 		{
+			"name": "Bee-1007",
 			"path": "Bee-1007"
 		},
 		{
-			"path": "Bee-1019"
+			"name": "Bee-1008",
+			"path": "Bee-1008"
 		},
+		{
+			"name": "Bee-1019",
+			"path": "Bee-1019"
+		}
 	],
 	"settings": {}
 }
